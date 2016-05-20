@@ -21,7 +21,7 @@ if ( function_exists( 'add_image_size' ) ) {
 
   add_image_size( 'col8-related', 414, 150, true );
 
-  add_image_size( 'api-large', 630, 355, true );
+  add_image_size( 'api-large', 1260, 710, true );
   add_image_size( 'api-medium', 355, 200, true );
 }
 
